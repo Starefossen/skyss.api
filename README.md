@@ -16,8 +16,11 @@ http://reiseplanlegger.skyss.no/scripts/travelmagic/TravelMagicWE.dll
 ## Bus Stop Boundinx Box (Map BBOX)
 
 * __resource:__ /mapxml?x1=5.0214385986328125&x2=5.5089569091796875&y1=60.239470337386585&y2=60.426393620789895&loc=1
-* __param__ cnt -
-* * __param__ cnt -
+* __param__ x1 -
+* __param__ x2 -
+* __param__ y1 -
+* __param__ y2 -
+* __param__ loc - 1 `?`
 
 ## Bus Stop to LatLng (Geo Coordinates)
 
